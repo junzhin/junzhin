@@ -1,6 +1,5 @@
 # Hi, I'm Junzhi Ning 👋
 
-**Generative Medical AI · Multimodal Learning · Deep Learning Engineer**
 
 I build and ship deep learning systems for **medical imaging** — training generative and multimodal models, wrangling large-scale clinical datasets, and turning research ideas into reproducible, GPU-ready pipelines. My day-to-day lives in PyTorch: designing model architectures, writing data pipelines for chest X-ray / retinal / MRI / CT, and running distributed experiments on HPC clusters.
 
